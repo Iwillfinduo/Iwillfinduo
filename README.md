@@ -29,7 +29,7 @@
 </table>
 
 ### I'm currently working on:
-📖 Plux's **[Testing platform](https://github.com/PluxCo/testing_platform)** for [3DiVi](https://www.3divi.ru/)<br>
+📖 Plux's **[Testing platform](https://github.com/PluxCo/testing-platform)** for [3DiVi](https://www.3divi.ru/)<br>
 📖 Some educational projects for my bachelor degree
 <br>
 

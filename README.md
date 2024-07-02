@@ -20,7 +20,7 @@
 ### My statistic
 <table>
   <tr>
-    <td valign="left" width="300px">
+    <td valign="left" width="350px">
 			<p align="left">
 				<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwillfinduo&layout=compact&show_icons=true&theme=github_white"/>
 			</p>
